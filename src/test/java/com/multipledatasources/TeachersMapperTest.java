@@ -1,4 +1,4 @@
-package com.gzz.mapper;
+package com.multipledatasources;
 
 import com.common.DynamicDataSource;
 import com.common.DynamicDataSourceContextHolder;
